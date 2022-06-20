@@ -130,4 +130,5 @@ dist
 .prettierrc.json
 
 #Git settsing
-.gitattributes
+..gitattributes
+.gitignore
